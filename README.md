@@ -27,7 +27,7 @@ With this information, we can create our “Signal” column to determine when t
 * Sell iff Signal = -1
 By using the diff() function we can visualize our entry/exit
 
-![alt text](https://github.com/[DamaniW]/[Project_2]/blob/[main/TSLA_signals.png?raw=true)
+![alt text]https://github.com/DamaniW/Project_2/blob/main/TSLA_signals.PNG
 
 ### Model Evaluation & Discussion
 
