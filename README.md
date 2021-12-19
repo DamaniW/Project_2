@@ -14,7 +14,7 @@ Instead, we took the current return at a specific point in time and shifted it b
 - Data is gathered from historical csv’s
 - We calculate the returns for the stock to see the general trajectory.
 
-![alt text]https://github.com/DamaniW/Project_2/blob/main/TSLA_returns.png
+!alt text https://github.com/DamaniW/Project_2/blob/main/TSLA_returns.png
 
 Added a column for “Future Close” which takes the closing price 30 days after the first and sets it to the beginning.
 
@@ -27,12 +27,13 @@ With this information, we can create our “Signal” column to determine when t
 * Sell iff Signal = -1
 By using the diff() function we can visualize our entry/exit
 
-![alt text]https://github.com/DamaniW/Project_2/blob/main/TSLA_signals.PNG
+!alt text https://github.com/DamaniW/Project_2/blob/main/TSLA_signals.PNG
 
 ### Model Evaluation & Discussion
 
 Originally, a Support Vector Machine (SVM) Classifier was used:
-![alt text]https://github.com/DamaniW/Project_2/blob/main/TSLA_model_report.png
+
+!alt texthttps://github.com/DamaniW/Project_2/blob/main/TSLA_model_report.png
 
 However, as you can see from the results, it did not perform very well. The precision and recall were completely different in from the training data to the testing data.
 
