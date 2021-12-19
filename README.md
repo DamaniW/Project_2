@@ -2,7 +2,7 @@
 
 ## Machine Learning Signal Projector
 
-What is this?
+## What is this?
 
 The goal of this Project is to give investors clear signals on when to buy/sell stocks using machine learning models.
 * Originally, a Monte Carlo simulation was going to be used in order to determine when the best time in the future to buy/sell stocks
@@ -32,7 +32,7 @@ By using the diff() function we can visualize our entry/exit
 ### Model Evaluation & Discussion
 
 Originally, a Support Vector Machine (SVM) Classifier was used:
-![alt text](https://github.com/[DamaniW]/[Project_2]/blob/[main/TSLA_model_report.png?raw=true)
+![alt text](https://github.com/DamaniW/Project_2/blob/[main/TSLA_model_report.png?raw=true)
 
 However, as you can see from the results, it did not perform very well. The precision and recall were completely different in from the training data to the testing data.
 
