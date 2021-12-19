@@ -14,7 +14,7 @@ Instead, we took the current return at a specific point in time and shifted it b
 - Data is gathered from historical csv’s
 - We calculate the returns for the stock to see the general trajectory.
 
-![alt text](https://github.com/[DamaniW]/[Project_2]/blob/[main/TSLA_returns.png?raw=true)
+![alt text]https://github.com/DamaniW/Project_2/blob/main/TSLA_returns.png
 
 Added a column for “Future Close” which takes the closing price 30 days after the first and sets it to the beginning.
 
