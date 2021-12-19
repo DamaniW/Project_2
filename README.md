@@ -32,7 +32,7 @@ By using the diff() function we can visualize our entry/exit
 ### Model Evaluation & Discussion
 
 Originally, a Support Vector Machine (SVM) Classifier was used:
-![alt text](https://github.com/DamaniW/Project_2/blob/[main/TSLA_model_report.png?raw=true)
+![alt text]https://github.com/DamaniW/Project_2/blob/main/TSLA_model_report.png
 
 However, as you can see from the results, it did not perform very well. The precision and recall were completely different in from the training data to the testing data.
 
